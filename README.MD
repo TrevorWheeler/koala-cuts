@@ -5,12 +5,10 @@ Koala Cuts is a fictional business website created as a fun project to explore a
 ## Table of Contents
 
 - [Features](#features)
+- [Dependencies](#project-structure)
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -18,6 +16,10 @@ Koala Cuts is a fictional business website created as a fun project to explore a
 - Responsive design
 - Custom vector designs and logo created using Figma
 - Efficient management and scaling of multiple packages using Lerna and monorepos
+
+## Dependencies
+
+This project requires Lerna to manage the monorepo. You can find the Lerna documentation [here](https://lerna.js.org/docs/introduction).
 
 ## Technologies Used
 
@@ -57,7 +59,3 @@ To set up the project locally, follow these steps:
 ## Usage
 
 After setting up the project, you can access the website at `http://localhost:8080`. The site provides an overview of various landscaping services offered by Koala Cuts.
-
-## Dependencies
-
-This project requires Lerna to manage the monorepo. You can find the Lerna documentation [here](https://lerna.js.org/docs/introduction).
